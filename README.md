@@ -31,3 +31,5 @@ Array representation
 `[1, 3, 2, 7, 6, 5, 4]`
 
 Full binary trees are very predictable as the index range multiplies by 2 at each scope.
+
+Normally, classes and recursion is preferred for performance and scalability. This isn't meant to be a scalable solution, just an experiment to see what is possible.
